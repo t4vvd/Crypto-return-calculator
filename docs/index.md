@@ -48,5 +48,5 @@ toc: false
 <div class="hero">
   <h1>Crypto Portfolio Dashboard</h1>
   <h2>Explore the pages on the left to learn more</h2>
-  <a href="https://apiguide.coingecko.com/getting-started/introduction" target="_blank">CoinGecko API<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
+  <a href="https://www.coingecko.com/en/api" target="_blank">CoinGecko API<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
 </div>
