@@ -10,6 +10,14 @@ Then visit <http://localhost:3000> to preview your project.
 
 For more, see <https://observablehq.com/framework/getting-started>.
 
+## Deployment
+
+The dashboard is deployed via GitHub Pages, and can be
+visited [here.](https://vnegi10.github.io/Crypto-return-calculator/) It is scheduled
+to update every two hours. Build and deploy steps can be found in
+[this](https://github.com/vnegi10/Crypto-return-calculator/blob/main/.github/workflows/deploy.yml)
+GitHub Actions workflow file.
+
 ## Project structure
 
 A typical Framework project looks like this:
